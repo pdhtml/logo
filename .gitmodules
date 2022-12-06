@@ -1,0 +1,3 @@
+[submodule "javascript-yellow"]
+	path = javascript-yellow
+	url = git@github.com:pdhtml/javascript-yellow.git

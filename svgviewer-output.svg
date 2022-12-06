@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<svg width="256px" height="256px" viewBox="0 0 256 256" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="xMidYMid">
+    <g>
+      <linearGradient id="style" xmlns="http://www.w3.org/2000/svg" x1="1" y1="256" x2="0" y2="256"><stop offset="0" style="stop-color:#f83a3a"/><stop offset="1" style="stop-color:#940505"/></linearGradient>
+        <path d="M0,0 L256,0 L256,256 L0,256 L0,0 Z" fill="url(#style)"></path>
+      <text x="70" y="230" font-family="Avantgarde, TeX Gyre Adventor, URW Gothic L, sans-serif" font-weight="700" font-size="95px" font-stretch="100%" letter-spacing="-8">PDF</text>
+    </g>
+</svg>
